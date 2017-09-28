@@ -2,4 +2,5 @@
 def display_board
   print array = [" ", "|", " ", "|", " "];
   puts "-----------";
+  return display_board;
 end
