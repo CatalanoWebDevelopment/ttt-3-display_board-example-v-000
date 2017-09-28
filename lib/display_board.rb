@@ -4,8 +4,8 @@ def display_board
   array = [" ", |, " ", |, " "];
   line = "-----------";
   print array;
-  puts "-----------";
+  puts line;
   print array;
-  
-  
+  puts line;
+  print array;
 end
